@@ -29,7 +29,7 @@ Os arquivos estão organizados em diretórios com base na numeração dos exerc�
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/lxzinxs/beecrowd-java-solutions.git
+   git clone https://github.com/lxzinxs/beecrowd
    ```
 
 2. **Abrir o Projeto:**
